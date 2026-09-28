@@ -1,0 +1,32 @@
+*{border:0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  background: #515231A3;
+}
+header{
+  background:#E8DCC6 ;
+}
+main{ line-height:1.1;}
+h1{
+  font-size:23px;
+  font-weight:800;
+}
+.title{
+  font-size:16px;
+font-weight:600;
+}
+.skills {
+  background: #FAF7F2 ;
+}
+.education {
+  background: #E8DCC6;
+}
+.experience {
+  background:  #FAF7F2;
+}
+.socials{
+  background: #E8DCC6;
+}
+h3{color:blue;}
